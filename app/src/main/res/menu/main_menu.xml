@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Item_inicio"
+        android:title="@string/inicio" />
+    <item
+        android:id="@+id/Item_VisualizarMetas"
+        android:title="@string/meta2" />
+    <item
+        android:id="@+id/Item_entrada"
+        android:title="@string/novaentrada" />
+    <!--    <item-->
+<!--        android:id="@+id/Item_graficos"-->
+<!--        android:title="@string/Grafico" />-->
+    <item
+        android:id="@+id/Item_meta"
+        android:title="@string/novameta" />
+    <item
+        android:id="@+id/item_reserva"
+        android:title="@string/novareserva" />
+    <item
+        android:id="@+id/Item_historico"
+        android:title="@string/historico" />
+</menu>

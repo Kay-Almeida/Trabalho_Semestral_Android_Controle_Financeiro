@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CashFlow</string>
+    <string name="receita">Receita</string>
+    <string name="despesa">Despesa</string>
+    <string name="reserva">Reserva</string>
+    <string name="meta">Qual é sua meta?</string>
+    <string name="limite">Limite:</string>
+    <string name="Grafico">Gráficos</string>
+    <string name="novaentrada">Nova Entrada</string>
+    <string name="valor">Valor R$</string>
+    <string name="data">Data</string>
+    <string name="salvar">Salvar</string>
+    <string name="Id">ID Entrada</string>
+    <string name="editar">Editar</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="excluir">Excluir</string>
+    <string name="historico">Histórico</string>
+    <string name="editorentrada">Editor de Entrada</string>
+    <string name="novoobjetivo">Novo Objetivo</string>
+    <string name="select">Selecione o tipo:</string>
+    <string name="selectEntrada">Selecione a Entrada:</string>
+    <string name="inicio">Inicio</string>
+    <string name="novameta">Nova Meta</string>
+    <string name="novareserva">Nova Reserva</string>
+    <string name="bemvindo">Bem-Vindo ao CashFlow</string>
+    <string name="total">Total de Entradas</string>
+    <string name="meta2">Metas</string>
+    <string name="concluir">Pesquisar</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
